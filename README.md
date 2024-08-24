@@ -1,1 +1,3 @@
 # DivergenceMeter
+
+![](./assets/demo.gif)
