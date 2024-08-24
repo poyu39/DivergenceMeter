@@ -6,3 +6,5 @@
 #define TUBE_SEL_0 6
 #define TUBE_SEL_1 7
 #define TUBE_SEL_2 8
+
+#define BTN_PIN 10
