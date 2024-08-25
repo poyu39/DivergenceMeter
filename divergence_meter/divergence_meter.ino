@@ -93,6 +93,10 @@ void loop() {
                 }
             }
             min_c = 0;
+            // 校正時間
+            time_client.update();
+            epoch_time = time_client.getEpochTime();
+            setTime(epoch_time);
         }
     }
     
